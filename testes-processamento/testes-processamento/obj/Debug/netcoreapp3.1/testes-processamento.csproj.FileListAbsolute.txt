@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\testes-processamento\testes-processamento\bin\Debug\netcoreapp3.1\testes-processamento.exe
+C:\temp\ws-vs2019\testes-processamento\testes-processamento\bin\Debug\netcoreapp3.1\testes-processamento.deps.json
+C:\temp\ws-vs2019\testes-processamento\testes-processamento\bin\Debug\netcoreapp3.1\testes-processamento.runtimeconfig.json
+C:\temp\ws-vs2019\testes-processamento\testes-processamento\bin\Debug\netcoreapp3.1\testes-processamento.runtimeconfig.dev.json
+C:\temp\ws-vs2019\testes-processamento\testes-processamento\bin\Debug\netcoreapp3.1\testes-processamento.dll
+C:\temp\ws-vs2019\testes-processamento\testes-processamento\bin\Debug\netcoreapp3.1\testes-processamento.pdb
+C:\temp\ws-vs2019\testes-processamento\testes-processamento\obj\Debug\netcoreapp3.1\testes-processamento.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\testes-processamento\testes-processamento\obj\Debug\netcoreapp3.1\testes-processamento.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\testes-processamento\testes-processamento\obj\Debug\netcoreapp3.1\testes-processamento.AssemblyInfo.cs
+C:\temp\ws-vs2019\testes-processamento\testes-processamento\obj\Debug\netcoreapp3.1\testes-processamento.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\testes-processamento\testes-processamento\obj\Debug\netcoreapp3.1\testes-processamento.dll
+C:\temp\ws-vs2019\testes-processamento\testes-processamento\obj\Debug\netcoreapp3.1\testes-processamento.pdb
+C:\temp\ws-vs2019\testes-processamento\testes-processamento\obj\Debug\netcoreapp3.1\testes-processamento.genruntimeconfig.cache

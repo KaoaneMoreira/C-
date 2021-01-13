@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\Entrada-de-dados\Entrada-de-dados\bin\Debug\netcoreapp3.1\Entrada-de-dados.exe
+C:\temp\ws-vs2019\Entrada-de-dados\Entrada-de-dados\bin\Debug\netcoreapp3.1\Entrada-de-dados.deps.json
+C:\temp\ws-vs2019\Entrada-de-dados\Entrada-de-dados\bin\Debug\netcoreapp3.1\Entrada-de-dados.runtimeconfig.json
+C:\temp\ws-vs2019\Entrada-de-dados\Entrada-de-dados\bin\Debug\netcoreapp3.1\Entrada-de-dados.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Entrada-de-dados\Entrada-de-dados\bin\Debug\netcoreapp3.1\Entrada-de-dados.dll
+C:\temp\ws-vs2019\Entrada-de-dados\Entrada-de-dados\bin\Debug\netcoreapp3.1\Entrada-de-dados.pdb
+C:\temp\ws-vs2019\Entrada-de-dados\Entrada-de-dados\obj\Debug\netcoreapp3.1\Entrada-de-dados.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\Entrada-de-dados\Entrada-de-dados\obj\Debug\netcoreapp3.1\Entrada-de-dados.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Entrada-de-dados\Entrada-de-dados\obj\Debug\netcoreapp3.1\Entrada-de-dados.AssemblyInfo.cs
+C:\temp\ws-vs2019\Entrada-de-dados\Entrada-de-dados\obj\Debug\netcoreapp3.1\Entrada-de-dados.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Entrada-de-dados\Entrada-de-dados\obj\Debug\netcoreapp3.1\Entrada-de-dados.dll
+C:\temp\ws-vs2019\Entrada-de-dados\Entrada-de-dados\obj\Debug\netcoreapp3.1\Entrada-de-dados.pdb
+C:\temp\ws-vs2019\Entrada-de-dados\Entrada-de-dados\obj\Debug\netcoreapp3.1\Entrada-de-dados.genruntimeconfig.cache

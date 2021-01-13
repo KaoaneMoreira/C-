@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\Primeiro_projeto\Primeiro_projeto\bin\Debug\netcoreapp3.1\Primeiro_projeto.exe
+C:\temp\ws-vs2019\Primeiro_projeto\Primeiro_projeto\bin\Debug\netcoreapp3.1\Primeiro_projeto.deps.json
+C:\temp\ws-vs2019\Primeiro_projeto\Primeiro_projeto\bin\Debug\netcoreapp3.1\Primeiro_projeto.runtimeconfig.json
+C:\temp\ws-vs2019\Primeiro_projeto\Primeiro_projeto\bin\Debug\netcoreapp3.1\Primeiro_projeto.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Primeiro_projeto\Primeiro_projeto\bin\Debug\netcoreapp3.1\Primeiro_projeto.dll
+C:\temp\ws-vs2019\Primeiro_projeto\Primeiro_projeto\bin\Debug\netcoreapp3.1\Primeiro_projeto.pdb
+C:\temp\ws-vs2019\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.AssemblyInfo.cs
+C:\temp\ws-vs2019\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.dll
+C:\temp\ws-vs2019\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.pdb
+C:\temp\ws-vs2019\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.genruntimeconfig.cache

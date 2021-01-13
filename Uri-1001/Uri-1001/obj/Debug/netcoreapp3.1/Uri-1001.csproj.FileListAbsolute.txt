@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\Uri-1001\Uri-1001\bin\Debug\netcoreapp3.1\Uri-1001.exe
+C:\temp\ws-vs2019\Uri-1001\Uri-1001\bin\Debug\netcoreapp3.1\Uri-1001.deps.json
+C:\temp\ws-vs2019\Uri-1001\Uri-1001\bin\Debug\netcoreapp3.1\Uri-1001.runtimeconfig.json
+C:\temp\ws-vs2019\Uri-1001\Uri-1001\bin\Debug\netcoreapp3.1\Uri-1001.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Uri-1001\Uri-1001\bin\Debug\netcoreapp3.1\Uri-1001.dll
+C:\temp\ws-vs2019\Uri-1001\Uri-1001\bin\Debug\netcoreapp3.1\Uri-1001.pdb
+C:\temp\ws-vs2019\Uri-1001\Uri-1001\obj\Debug\netcoreapp3.1\Uri-1001.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\Uri-1001\Uri-1001\obj\Debug\netcoreapp3.1\Uri-1001.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Uri-1001\Uri-1001\obj\Debug\netcoreapp3.1\Uri-1001.AssemblyInfo.cs
+C:\temp\ws-vs2019\Uri-1001\Uri-1001\obj\Debug\netcoreapp3.1\Uri-1001.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Uri-1001\Uri-1001\obj\Debug\netcoreapp3.1\Uri-1001.dll
+C:\temp\ws-vs2019\Uri-1001\Uri-1001\obj\Debug\netcoreapp3.1\Uri-1001.pdb
+C:\temp\ws-vs2019\Uri-1001\Uri-1001\obj\Debug\netcoreapp3.1\Uri-1001.genruntimeconfig.cache
