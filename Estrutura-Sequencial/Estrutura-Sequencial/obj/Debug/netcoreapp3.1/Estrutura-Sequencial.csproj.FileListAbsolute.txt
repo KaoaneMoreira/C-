@@ -1,0 +1,13 @@
+C:\Users\Kaone\source\repos\Estrutura-Sequencial\Estrutura-Sequencial\bin\Debug\netcoreapp3.1\Estrutura-Sequencial.exe
+C:\Users\Kaone\source\repos\Estrutura-Sequencial\Estrutura-Sequencial\bin\Debug\netcoreapp3.1\Estrutura-Sequencial.deps.json
+C:\Users\Kaone\source\repos\Estrutura-Sequencial\Estrutura-Sequencial\bin\Debug\netcoreapp3.1\Estrutura-Sequencial.runtimeconfig.json
+C:\Users\Kaone\source\repos\Estrutura-Sequencial\Estrutura-Sequencial\bin\Debug\netcoreapp3.1\Estrutura-Sequencial.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\Estrutura-Sequencial\Estrutura-Sequencial\bin\Debug\netcoreapp3.1\Estrutura-Sequencial.dll
+C:\Users\Kaone\source\repos\Estrutura-Sequencial\Estrutura-Sequencial\bin\Debug\netcoreapp3.1\Estrutura-Sequencial.pdb
+C:\Users\Kaone\source\repos\Estrutura-Sequencial\Estrutura-Sequencial\obj\Debug\netcoreapp3.1\Estrutura-Sequencial.csprojAssemblyReference.cache
+C:\Users\Kaone\source\repos\Estrutura-Sequencial\Estrutura-Sequencial\obj\Debug\netcoreapp3.1\Estrutura-Sequencial.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\Estrutura-Sequencial\Estrutura-Sequencial\obj\Debug\netcoreapp3.1\Estrutura-Sequencial.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\Estrutura-Sequencial\Estrutura-Sequencial\obj\Debug\netcoreapp3.1\Estrutura-Sequencial.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\Estrutura-Sequencial\Estrutura-Sequencial\obj\Debug\netcoreapp3.1\Estrutura-Sequencial.dll
+C:\Users\Kaone\source\repos\Estrutura-Sequencial\Estrutura-Sequencial\obj\Debug\netcoreapp3.1\Estrutura-Sequencial.pdb
+C:\Users\Kaone\source\repos\Estrutura-Sequencial\Estrutura-Sequencial\obj\Debug\netcoreapp3.1\Estrutura-Sequencial.genruntimeconfig.cache

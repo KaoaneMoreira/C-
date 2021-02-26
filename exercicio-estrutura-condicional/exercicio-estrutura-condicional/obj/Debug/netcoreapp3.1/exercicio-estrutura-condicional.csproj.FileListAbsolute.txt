@@ -1,0 +1,13 @@
+C:\Users\Kaone\source\repos\exercicio-estrutura-condicional\exercicio-estrutura-condicional\bin\Debug\netcoreapp3.1\exercicio-estrutura-condicional.exe
+C:\Users\Kaone\source\repos\exercicio-estrutura-condicional\exercicio-estrutura-condicional\bin\Debug\netcoreapp3.1\exercicio-estrutura-condicional.deps.json
+C:\Users\Kaone\source\repos\exercicio-estrutura-condicional\exercicio-estrutura-condicional\bin\Debug\netcoreapp3.1\exercicio-estrutura-condicional.runtimeconfig.json
+C:\Users\Kaone\source\repos\exercicio-estrutura-condicional\exercicio-estrutura-condicional\bin\Debug\netcoreapp3.1\exercicio-estrutura-condicional.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\exercicio-estrutura-condicional\exercicio-estrutura-condicional\bin\Debug\netcoreapp3.1\exercicio-estrutura-condicional.dll
+C:\Users\Kaone\source\repos\exercicio-estrutura-condicional\exercicio-estrutura-condicional\bin\Debug\netcoreapp3.1\exercicio-estrutura-condicional.pdb
+C:\Users\Kaone\source\repos\exercicio-estrutura-condicional\exercicio-estrutura-condicional\obj\Debug\netcoreapp3.1\exercicio-estrutura-condicional.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\exercicio-estrutura-condicional\exercicio-estrutura-condicional\obj\Debug\netcoreapp3.1\exercicio-estrutura-condicional.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\exercicio-estrutura-condicional\exercicio-estrutura-condicional\obj\Debug\netcoreapp3.1\exercicio-estrutura-condicional.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\exercicio-estrutura-condicional\exercicio-estrutura-condicional\obj\Debug\netcoreapp3.1\exercicio-estrutura-condicional.dll
+C:\Users\Kaone\source\repos\exercicio-estrutura-condicional\exercicio-estrutura-condicional\obj\Debug\netcoreapp3.1\exercicio-estrutura-condicional.pdb
+C:\Users\Kaone\source\repos\exercicio-estrutura-condicional\exercicio-estrutura-condicional\obj\Debug\netcoreapp3.1\exercicio-estrutura-condicional.genruntimeconfig.cache
+C:\Users\Kaone\source\repos\exercicio-estrutura-condicional\exercicio-estrutura-condicional\obj\Debug\netcoreapp3.1\exercicio-estrutura-condicional.csprojAssemblyReference.cache

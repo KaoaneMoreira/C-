@@ -1,0 +1,13 @@
+C:\Users\Kaone\source\repos\Estrutura-Enquanto\Estrutura-Enquanto\bin\Debug\netcoreapp3.1\Estrutura-Enquanto.exe
+C:\Users\Kaone\source\repos\Estrutura-Enquanto\Estrutura-Enquanto\bin\Debug\netcoreapp3.1\Estrutura-Enquanto.deps.json
+C:\Users\Kaone\source\repos\Estrutura-Enquanto\Estrutura-Enquanto\bin\Debug\netcoreapp3.1\Estrutura-Enquanto.runtimeconfig.json
+C:\Users\Kaone\source\repos\Estrutura-Enquanto\Estrutura-Enquanto\bin\Debug\netcoreapp3.1\Estrutura-Enquanto.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\Estrutura-Enquanto\Estrutura-Enquanto\bin\Debug\netcoreapp3.1\Estrutura-Enquanto.dll
+C:\Users\Kaone\source\repos\Estrutura-Enquanto\Estrutura-Enquanto\bin\Debug\netcoreapp3.1\Estrutura-Enquanto.pdb
+C:\Users\Kaone\source\repos\Estrutura-Enquanto\Estrutura-Enquanto\obj\Debug\netcoreapp3.1\Estrutura-Enquanto.csprojAssemblyReference.cache
+C:\Users\Kaone\source\repos\Estrutura-Enquanto\Estrutura-Enquanto\obj\Debug\netcoreapp3.1\Estrutura-Enquanto.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\Estrutura-Enquanto\Estrutura-Enquanto\obj\Debug\netcoreapp3.1\Estrutura-Enquanto.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\Estrutura-Enquanto\Estrutura-Enquanto\obj\Debug\netcoreapp3.1\Estrutura-Enquanto.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\Estrutura-Enquanto\Estrutura-Enquanto\obj\Debug\netcoreapp3.1\Estrutura-Enquanto.dll
+C:\Users\Kaone\source\repos\Estrutura-Enquanto\Estrutura-Enquanto\obj\Debug\netcoreapp3.1\Estrutura-Enquanto.pdb
+C:\Users\Kaone\source\repos\Estrutura-Enquanto\Estrutura-Enquanto\obj\Debug\netcoreapp3.1\Estrutura-Enquanto.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Kaone\source\repos\Switch-case\Switch-case\bin\Debug\netcoreapp3.1\Switch-case.exe
+C:\Users\Kaone\source\repos\Switch-case\Switch-case\bin\Debug\netcoreapp3.1\Switch-case.deps.json
+C:\Users\Kaone\source\repos\Switch-case\Switch-case\bin\Debug\netcoreapp3.1\Switch-case.runtimeconfig.json
+C:\Users\Kaone\source\repos\Switch-case\Switch-case\bin\Debug\netcoreapp3.1\Switch-case.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\Switch-case\Switch-case\bin\Debug\netcoreapp3.1\Switch-case.dll
+C:\Users\Kaone\source\repos\Switch-case\Switch-case\bin\Debug\netcoreapp3.1\Switch-case.pdb
+C:\Users\Kaone\source\repos\Switch-case\Switch-case\obj\Debug\netcoreapp3.1\Switch-case.csprojAssemblyReference.cache
+C:\Users\Kaone\source\repos\Switch-case\Switch-case\obj\Debug\netcoreapp3.1\Switch-case.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\Switch-case\Switch-case\obj\Debug\netcoreapp3.1\Switch-case.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\Switch-case\Switch-case\obj\Debug\netcoreapp3.1\Switch-case.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\Switch-case\Switch-case\obj\Debug\netcoreapp3.1\Switch-case.dll
+C:\Users\Kaone\source\repos\Switch-case\Switch-case\obj\Debug\netcoreapp3.1\Switch-case.pdb
+C:\Users\Kaone\source\repos\Switch-case\Switch-case\obj\Debug\netcoreapp3.1\Switch-case.genruntimeconfig.cache
