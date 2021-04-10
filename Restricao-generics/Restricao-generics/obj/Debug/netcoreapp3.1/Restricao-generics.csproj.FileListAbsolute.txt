@@ -1,0 +1,13 @@
+C:\Users\Kaone\source\repos\Restricao-generics\Restricao-generics\bin\Debug\netcoreapp3.1\Restricao-generics.exe
+C:\Users\Kaone\source\repos\Restricao-generics\Restricao-generics\bin\Debug\netcoreapp3.1\Restricao-generics.deps.json
+C:\Users\Kaone\source\repos\Restricao-generics\Restricao-generics\bin\Debug\netcoreapp3.1\Restricao-generics.runtimeconfig.json
+C:\Users\Kaone\source\repos\Restricao-generics\Restricao-generics\bin\Debug\netcoreapp3.1\Restricao-generics.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\Restricao-generics\Restricao-generics\bin\Debug\netcoreapp3.1\Restricao-generics.dll
+C:\Users\Kaone\source\repos\Restricao-generics\Restricao-generics\bin\Debug\netcoreapp3.1\Restricao-generics.pdb
+C:\Users\Kaone\source\repos\Restricao-generics\Restricao-generics\obj\Debug\netcoreapp3.1\Restricao-generics.csprojAssemblyReference.cache
+C:\Users\Kaone\source\repos\Restricao-generics\Restricao-generics\obj\Debug\netcoreapp3.1\Restricao-generics.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\Restricao-generics\Restricao-generics\obj\Debug\netcoreapp3.1\Restricao-generics.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\Restricao-generics\Restricao-generics\obj\Debug\netcoreapp3.1\Restricao-generics.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\Restricao-generics\Restricao-generics\obj\Debug\netcoreapp3.1\Restricao-generics.dll
+C:\Users\Kaone\source\repos\Restricao-generics\Restricao-generics\obj\Debug\netcoreapp3.1\Restricao-generics.pdb
+C:\Users\Kaone\source\repos\Restricao-generics\Restricao-generics\obj\Debug\netcoreapp3.1\Restricao-generics.genruntimeconfig.cache

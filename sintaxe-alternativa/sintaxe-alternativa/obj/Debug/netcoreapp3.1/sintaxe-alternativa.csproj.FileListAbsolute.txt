@@ -1,0 +1,13 @@
+C:\Users\Kaone\source\repos\sintaxe-alternativa\sintaxe-alternativa\bin\Debug\netcoreapp3.1\sintaxe-alternativa.exe
+C:\Users\Kaone\source\repos\sintaxe-alternativa\sintaxe-alternativa\bin\Debug\netcoreapp3.1\sintaxe-alternativa.deps.json
+C:\Users\Kaone\source\repos\sintaxe-alternativa\sintaxe-alternativa\bin\Debug\netcoreapp3.1\sintaxe-alternativa.runtimeconfig.json
+C:\Users\Kaone\source\repos\sintaxe-alternativa\sintaxe-alternativa\bin\Debug\netcoreapp3.1\sintaxe-alternativa.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\sintaxe-alternativa\sintaxe-alternativa\bin\Debug\netcoreapp3.1\sintaxe-alternativa.dll
+C:\Users\Kaone\source\repos\sintaxe-alternativa\sintaxe-alternativa\bin\Debug\netcoreapp3.1\sintaxe-alternativa.pdb
+C:\Users\Kaone\source\repos\sintaxe-alternativa\sintaxe-alternativa\obj\Debug\netcoreapp3.1\sintaxe-alternativa.csprojAssemblyReference.cache
+C:\Users\Kaone\source\repos\sintaxe-alternativa\sintaxe-alternativa\obj\Debug\netcoreapp3.1\sintaxe-alternativa.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\sintaxe-alternativa\sintaxe-alternativa\obj\Debug\netcoreapp3.1\sintaxe-alternativa.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\sintaxe-alternativa\sintaxe-alternativa\obj\Debug\netcoreapp3.1\sintaxe-alternativa.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\sintaxe-alternativa\sintaxe-alternativa\obj\Debug\netcoreapp3.1\sintaxe-alternativa.dll
+C:\Users\Kaone\source\repos\sintaxe-alternativa\sintaxe-alternativa\obj\Debug\netcoreapp3.1\sintaxe-alternativa.pdb
+C:\Users\Kaone\source\repos\sintaxe-alternativa\sintaxe-alternativa\obj\Debug\netcoreapp3.1\sintaxe-alternativa.genruntimeconfig.cache

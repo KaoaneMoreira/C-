@@ -1,0 +1,13 @@
+C:\Users\Kaone\source\repos\generic1-csharp\generic1-csharp\bin\Debug\netcoreapp3.1\generic1-csharp.exe
+C:\Users\Kaone\source\repos\generic1-csharp\generic1-csharp\bin\Debug\netcoreapp3.1\generic1-csharp.deps.json
+C:\Users\Kaone\source\repos\generic1-csharp\generic1-csharp\bin\Debug\netcoreapp3.1\generic1-csharp.runtimeconfig.json
+C:\Users\Kaone\source\repos\generic1-csharp\generic1-csharp\bin\Debug\netcoreapp3.1\generic1-csharp.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\generic1-csharp\generic1-csharp\bin\Debug\netcoreapp3.1\generic1-csharp.dll
+C:\Users\Kaone\source\repos\generic1-csharp\generic1-csharp\bin\Debug\netcoreapp3.1\generic1-csharp.pdb
+C:\Users\Kaone\source\repos\generic1-csharp\generic1-csharp\obj\Debug\netcoreapp3.1\generic1-csharp.csprojAssemblyReference.cache
+C:\Users\Kaone\source\repos\generic1-csharp\generic1-csharp\obj\Debug\netcoreapp3.1\generic1-csharp.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\generic1-csharp\generic1-csharp\obj\Debug\netcoreapp3.1\generic1-csharp.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\generic1-csharp\generic1-csharp\obj\Debug\netcoreapp3.1\generic1-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\generic1-csharp\generic1-csharp\obj\Debug\netcoreapp3.1\generic1-csharp.dll
+C:\Users\Kaone\source\repos\generic1-csharp\generic1-csharp\obj\Debug\netcoreapp3.1\generic1-csharp.pdb
+C:\Users\Kaone\source\repos\generic1-csharp\generic1-csharp\obj\Debug\netcoreapp3.1\generic1-csharp.genruntimeconfig.cache

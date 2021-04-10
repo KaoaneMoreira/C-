@@ -1,5 +1,3 @@
 # Github
 #Git course
-Este é um repositorio teste para ensinar como git funciona. 
-
-Saiba mais no link:
+Este é um repositorio para o curso Lógica de programação C# - Udemy.

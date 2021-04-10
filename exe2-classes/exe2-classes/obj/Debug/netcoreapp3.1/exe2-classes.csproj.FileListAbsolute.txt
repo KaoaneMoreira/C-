@@ -1,0 +1,12 @@
+C:\Users\Kaone\source\repos\exe2-classes\exe2-classes\bin\Debug\netcoreapp3.1\exe2-classes.exe
+C:\Users\Kaone\source\repos\exe2-classes\exe2-classes\bin\Debug\netcoreapp3.1\exe2-classes.deps.json
+C:\Users\Kaone\source\repos\exe2-classes\exe2-classes\bin\Debug\netcoreapp3.1\exe2-classes.runtimeconfig.json
+C:\Users\Kaone\source\repos\exe2-classes\exe2-classes\bin\Debug\netcoreapp3.1\exe2-classes.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\exe2-classes\exe2-classes\bin\Debug\netcoreapp3.1\exe2-classes.dll
+C:\Users\Kaone\source\repos\exe2-classes\exe2-classes\bin\Debug\netcoreapp3.1\exe2-classes.pdb
+C:\Users\Kaone\source\repos\exe2-classes\exe2-classes\obj\Debug\netcoreapp3.1\exe2-classes.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\exe2-classes\exe2-classes\obj\Debug\netcoreapp3.1\exe2-classes.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\exe2-classes\exe2-classes\obj\Debug\netcoreapp3.1\exe2-classes.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\exe2-classes\exe2-classes\obj\Debug\netcoreapp3.1\exe2-classes.dll
+C:\Users\Kaone\source\repos\exe2-classes\exe2-classes\obj\Debug\netcoreapp3.1\exe2-classes.pdb
+C:\Users\Kaone\source\repos\exe2-classes\exe2-classes\obj\Debug\netcoreapp3.1\exe2-classes.genruntimeconfig.cache

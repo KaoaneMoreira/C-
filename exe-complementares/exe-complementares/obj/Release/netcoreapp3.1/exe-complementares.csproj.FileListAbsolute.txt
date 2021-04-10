@@ -1,0 +1,13 @@
+C:\Users\Kaone\source\repos\exe-complementares\exe-complementares\bin\Release\netcoreapp3.1\exe-complementares.exe
+C:\Users\Kaone\source\repos\exe-complementares\exe-complementares\bin\Release\netcoreapp3.1\exe-complementares.deps.json
+C:\Users\Kaone\source\repos\exe-complementares\exe-complementares\bin\Release\netcoreapp3.1\exe-complementares.runtimeconfig.json
+C:\Users\Kaone\source\repos\exe-complementares\exe-complementares\bin\Release\netcoreapp3.1\exe-complementares.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\exe-complementares\exe-complementares\bin\Release\netcoreapp3.1\exe-complementares.dll
+C:\Users\Kaone\source\repos\exe-complementares\exe-complementares\bin\Release\netcoreapp3.1\exe-complementares.pdb
+C:\Users\Kaone\source\repos\exe-complementares\exe-complementares\obj\Release\netcoreapp3.1\exe-complementares.csprojAssemblyReference.cache
+C:\Users\Kaone\source\repos\exe-complementares\exe-complementares\obj\Release\netcoreapp3.1\exe-complementares.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\exe-complementares\exe-complementares\obj\Release\netcoreapp3.1\exe-complementares.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\exe-complementares\exe-complementares\obj\Release\netcoreapp3.1\exe-complementares.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\exe-complementares\exe-complementares\obj\Release\netcoreapp3.1\exe-complementares.dll
+C:\Users\Kaone\source\repos\exe-complementares\exe-complementares\obj\Release\netcoreapp3.1\exe-complementares.pdb
+C:\Users\Kaone\source\repos\exe-complementares\exe-complementares\obj\Release\netcoreapp3.1\exe-complementares.genruntimeconfig.cache

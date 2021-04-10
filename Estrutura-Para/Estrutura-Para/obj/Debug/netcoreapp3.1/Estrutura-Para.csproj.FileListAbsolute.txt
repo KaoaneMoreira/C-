@@ -1,0 +1,13 @@
+C:\Users\Kaone\source\repos\Estrutura-Para\Estrutura-Para\bin\Debug\netcoreapp3.1\Estrutura-Para.exe
+C:\Users\Kaone\source\repos\Estrutura-Para\Estrutura-Para\bin\Debug\netcoreapp3.1\Estrutura-Para.deps.json
+C:\Users\Kaone\source\repos\Estrutura-Para\Estrutura-Para\bin\Debug\netcoreapp3.1\Estrutura-Para.runtimeconfig.json
+C:\Users\Kaone\source\repos\Estrutura-Para\Estrutura-Para\bin\Debug\netcoreapp3.1\Estrutura-Para.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\Estrutura-Para\Estrutura-Para\bin\Debug\netcoreapp3.1\Estrutura-Para.dll
+C:\Users\Kaone\source\repos\Estrutura-Para\Estrutura-Para\bin\Debug\netcoreapp3.1\Estrutura-Para.pdb
+C:\Users\Kaone\source\repos\Estrutura-Para\Estrutura-Para\obj\Debug\netcoreapp3.1\Estrutura-Para.csprojAssemblyReference.cache
+C:\Users\Kaone\source\repos\Estrutura-Para\Estrutura-Para\obj\Debug\netcoreapp3.1\Estrutura-Para.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\Estrutura-Para\Estrutura-Para\obj\Debug\netcoreapp3.1\Estrutura-Para.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\Estrutura-Para\Estrutura-Para\obj\Debug\netcoreapp3.1\Estrutura-Para.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\Estrutura-Para\Estrutura-Para\obj\Debug\netcoreapp3.1\Estrutura-Para.dll
+C:\Users\Kaone\source\repos\Estrutura-Para\Estrutura-Para\obj\Debug\netcoreapp3.1\Estrutura-Para.pdb
+C:\Users\Kaone\source\repos\Estrutura-Para\Estrutura-Para\obj\Debug\netcoreapp3.1\Estrutura-Para.genruntimeconfig.cache

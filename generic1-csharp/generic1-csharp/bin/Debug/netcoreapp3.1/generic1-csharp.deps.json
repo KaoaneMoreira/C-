@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "generic1-csharp/1.0.0": {
+        "runtime": {
+          "generic1-csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "generic1-csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

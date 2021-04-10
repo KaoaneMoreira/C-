@@ -1,0 +1,13 @@
+C:\Users\Kaone\source\repos\exe-fixacao\exe-fixacao\bin\Debug\netcoreapp3.1\exe-fixacao.exe
+C:\Users\Kaone\source\repos\exe-fixacao\exe-fixacao\bin\Debug\netcoreapp3.1\exe-fixacao.deps.json
+C:\Users\Kaone\source\repos\exe-fixacao\exe-fixacao\bin\Debug\netcoreapp3.1\exe-fixacao.runtimeconfig.json
+C:\Users\Kaone\source\repos\exe-fixacao\exe-fixacao\bin\Debug\netcoreapp3.1\exe-fixacao.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\exe-fixacao\exe-fixacao\bin\Debug\netcoreapp3.1\exe-fixacao.dll
+C:\Users\Kaone\source\repos\exe-fixacao\exe-fixacao\bin\Debug\netcoreapp3.1\exe-fixacao.pdb
+C:\Users\Kaone\source\repos\exe-fixacao\exe-fixacao\obj\Debug\netcoreapp3.1\exe-fixacao.csprojAssemblyReference.cache
+C:\Users\Kaone\source\repos\exe-fixacao\exe-fixacao\obj\Debug\netcoreapp3.1\exe-fixacao.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\exe-fixacao\exe-fixacao\obj\Debug\netcoreapp3.1\exe-fixacao.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\exe-fixacao\exe-fixacao\obj\Debug\netcoreapp3.1\exe-fixacao.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\exe-fixacao\exe-fixacao\obj\Debug\netcoreapp3.1\exe-fixacao.dll
+C:\Users\Kaone\source\repos\exe-fixacao\exe-fixacao\obj\Debug\netcoreapp3.1\exe-fixacao.pdb
+C:\Users\Kaone\source\repos\exe-fixacao\exe-fixacao\obj\Debug\netcoreapp3.1\exe-fixacao.genruntimeconfig.cache

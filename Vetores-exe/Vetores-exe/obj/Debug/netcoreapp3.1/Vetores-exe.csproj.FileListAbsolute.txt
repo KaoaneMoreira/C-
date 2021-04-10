@@ -1,0 +1,13 @@
+C:\Users\Kaone\source\repos\Vetores-exe\Vetores-exe\bin\Debug\netcoreapp3.1\Vetores-exe.exe
+C:\Users\Kaone\source\repos\Vetores-exe\Vetores-exe\bin\Debug\netcoreapp3.1\Vetores-exe.deps.json
+C:\Users\Kaone\source\repos\Vetores-exe\Vetores-exe\bin\Debug\netcoreapp3.1\Vetores-exe.runtimeconfig.json
+C:\Users\Kaone\source\repos\Vetores-exe\Vetores-exe\bin\Debug\netcoreapp3.1\Vetores-exe.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\Vetores-exe\Vetores-exe\bin\Debug\netcoreapp3.1\Vetores-exe.dll
+C:\Users\Kaone\source\repos\Vetores-exe\Vetores-exe\bin\Debug\netcoreapp3.1\Vetores-exe.pdb
+C:\Users\Kaone\source\repos\Vetores-exe\Vetores-exe\obj\Debug\netcoreapp3.1\Vetores-exe.csprojAssemblyReference.cache
+C:\Users\Kaone\source\repos\Vetores-exe\Vetores-exe\obj\Debug\netcoreapp3.1\Vetores-exe.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\Vetores-exe\Vetores-exe\obj\Debug\netcoreapp3.1\Vetores-exe.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\Vetores-exe\Vetores-exe\obj\Debug\netcoreapp3.1\Vetores-exe.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\Vetores-exe\Vetores-exe\obj\Debug\netcoreapp3.1\Vetores-exe.dll
+C:\Users\Kaone\source\repos\Vetores-exe\Vetores-exe\obj\Debug\netcoreapp3.1\Vetores-exe.pdb
+C:\Users\Kaone\source\repos\Vetores-exe\Vetores-exe\obj\Debug\netcoreapp3.1\Vetores-exe.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Kaone\source\repos\exe\exe\bin\Debug\netcoreapp3.1\exe.exe
+C:\Users\Kaone\source\repos\exe\exe\bin\Debug\netcoreapp3.1\exe.deps.json
+C:\Users\Kaone\source\repos\exe\exe\bin\Debug\netcoreapp3.1\exe.runtimeconfig.json
+C:\Users\Kaone\source\repos\exe\exe\bin\Debug\netcoreapp3.1\exe.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\exe\exe\bin\Debug\netcoreapp3.1\exe.dll
+C:\Users\Kaone\source\repos\exe\exe\bin\Debug\netcoreapp3.1\exe.pdb
+C:\Users\Kaone\source\repos\exe\exe\obj\Debug\netcoreapp3.1\exe.csprojAssemblyReference.cache
+C:\Users\Kaone\source\repos\exe\exe\obj\Debug\netcoreapp3.1\exe.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\exe\exe\obj\Debug\netcoreapp3.1\exe.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\exe\exe\obj\Debug\netcoreapp3.1\exe.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\exe\exe\obj\Debug\netcoreapp3.1\exe.dll
+C:\Users\Kaone\source\repos\exe\exe\obj\Debug\netcoreapp3.1\exe.pdb
+C:\Users\Kaone\source\repos\exe\exe\obj\Debug\netcoreapp3.1\exe.genruntimeconfig.cache

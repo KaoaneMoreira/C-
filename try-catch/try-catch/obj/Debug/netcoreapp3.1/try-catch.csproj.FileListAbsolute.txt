@@ -1,0 +1,13 @@
+C:\Users\Kaone\source\repos\try-catch\try-catch\bin\Debug\netcoreapp3.1\try-catch.exe
+C:\Users\Kaone\source\repos\try-catch\try-catch\bin\Debug\netcoreapp3.1\try-catch.deps.json
+C:\Users\Kaone\source\repos\try-catch\try-catch\bin\Debug\netcoreapp3.1\try-catch.runtimeconfig.json
+C:\Users\Kaone\source\repos\try-catch\try-catch\bin\Debug\netcoreapp3.1\try-catch.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\try-catch\try-catch\bin\Debug\netcoreapp3.1\try-catch.dll
+C:\Users\Kaone\source\repos\try-catch\try-catch\bin\Debug\netcoreapp3.1\try-catch.pdb
+C:\Users\Kaone\source\repos\try-catch\try-catch\obj\Debug\netcoreapp3.1\try-catch.csprojAssemblyReference.cache
+C:\Users\Kaone\source\repos\try-catch\try-catch\obj\Debug\netcoreapp3.1\try-catch.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\try-catch\try-catch\obj\Debug\netcoreapp3.1\try-catch.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\try-catch\try-catch\obj\Debug\netcoreapp3.1\try-catch.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\try-catch\try-catch\obj\Debug\netcoreapp3.1\try-catch.dll
+C:\Users\Kaone\source\repos\try-catch\try-catch\obj\Debug\netcoreapp3.1\try-catch.pdb
+C:\Users\Kaone\source\repos\try-catch\try-catch\obj\Debug\netcoreapp3.1\try-catch.genruntimeconfig.cache

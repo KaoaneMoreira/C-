@@ -1,0 +1,13 @@
+C:\Users\Kaone\source\repos\Couse\Couse\bin\Debug\netcoreapp3.1\Couse.exe
+C:\Users\Kaone\source\repos\Couse\Couse\bin\Debug\netcoreapp3.1\Couse.deps.json
+C:\Users\Kaone\source\repos\Couse\Couse\bin\Debug\netcoreapp3.1\Couse.runtimeconfig.json
+C:\Users\Kaone\source\repos\Couse\Couse\bin\Debug\netcoreapp3.1\Couse.runtimeconfig.dev.json
+C:\Users\Kaone\source\repos\Couse\Couse\bin\Debug\netcoreapp3.1\Couse.dll
+C:\Users\Kaone\source\repos\Couse\Couse\bin\Debug\netcoreapp3.1\Couse.pdb
+C:\Users\Kaone\source\repos\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.csprojAssemblyReference.cache
+C:\Users\Kaone\source\repos\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.AssemblyInfoInputs.cache
+C:\Users\Kaone\source\repos\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.AssemblyInfo.cs
+C:\Users\Kaone\source\repos\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.csproj.CoreCompileInputs.cache
+C:\Users\Kaone\source\repos\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.dll
+C:\Users\Kaone\source\repos\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.pdb
+C:\Users\Kaone\source\repos\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.genruntimeconfig.cache

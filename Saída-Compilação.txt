@@ -1,0 +1,6 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: try-catch, Configuração: Debug Any CPU ------
+1>C:\Users\Kaone\source\repos\try-catch\try-catch\Program.cs(17,42,17,43): warning CS0168: A variável "e" está declarada, mas nunca é usada
+1>try-catch -> C:\Users\Kaone\source\repos\try-catch\try-catch\bin\Debug\netcoreapp3.1\try-catch.dll
+1>Projeto de compilação pronto "try-catch.csproj".
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
